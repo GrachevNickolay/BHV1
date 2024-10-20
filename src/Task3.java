@@ -14,4 +14,5 @@ public class Task3{
                 System.out.print(a[i] + " ");
         }
     }
+
 }

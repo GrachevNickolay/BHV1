@@ -13,4 +13,5 @@ public class Task1 {
             n /= 10;
         }
     }
+
 }
